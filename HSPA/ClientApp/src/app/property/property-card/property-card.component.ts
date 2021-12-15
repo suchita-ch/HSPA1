@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
   styleUrls: ['property-card.component.css']
 })
 
+
 export class PropertyCardComponent {
 
 }
